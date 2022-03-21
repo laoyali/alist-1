@@ -10,3 +10,4 @@ var Public embed.FS
 //
 ////go:embed assets/**
 //var Assets embed.FS
+//
